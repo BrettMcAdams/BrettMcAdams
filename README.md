@@ -2,7 +2,6 @@
 
 ## I'm a Full Stack Web Engineer
 
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other amazing developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play piano and score movies
