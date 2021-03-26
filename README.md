@@ -40,3 +40,5 @@
 [website]: https://codingwithbrett.netlify.app/
 [twitter]: https://twitter.com/BrettMcAdams6
 [linkedin]: https://www.linkedin.com/in/brett-mcadams-134ba91b5/
+
+<img src="https://github-readme-stats.vercel.app/api?username=brettmcadams&theme=buefy&show_icons=true" />
